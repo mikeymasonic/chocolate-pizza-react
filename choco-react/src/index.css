@@ -64,7 +64,7 @@ header {
 
 #horz-bar {
   height: 10px;
-  /* background-image: url(../public/images/hr-img.png); */
+  background-image: url('/images/hr-img.png');
   clear: both;
   margin: 10px 0px 10px 0px;
 }
@@ -91,7 +91,7 @@ h1 {
 }
 
 #background-list-img {
-  /* background-image: url('images/list-bg.png'); */
+  background-image: url('/images/list-bg.png');
   width: 100%;
   height: 250px;
   font-family: 'Patrick Hand', cursive;
